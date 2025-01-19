@@ -1,1 +1,1 @@
-# SCsite_my
+# NIS Student council site - project
